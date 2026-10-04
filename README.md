@@ -1,13 +1,13 @@
 
 # Halo, saya Suhu Seo
 
-Saya tertarik pada [Web Development & Security].
+Saya tertarik pada [Web Development , SEO & Network Security].
 
 - 🌱 Sedang belajar: HTML, CSS, JS
 - 💼 Fokus: Belajar dan Belajar
-- 📫 Kontak: admin@suhuseo.id@gmail.com
+- 📫 Kontak: admin@suhu.ac.id
 
 ## Proyek pilihan
-- [Nama proyek](https://github.com/username/nama-repo) — deskripsi singkat
+- [Suhu Hosting](https://suhu.ac.id) — Suhu hosting menyediakan hosting dll
 
 
