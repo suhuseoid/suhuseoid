@@ -1,7 +1,7 @@
 
-# Halo, saya [Nama]
+# Halo, saya Suhu Seo
 
-Saya tertarik pada [bidang atau teknologi].
+Saya tertarik pada [Web Development & Security].
 
 - 🌱 Sedang belajar: HTML, CSS, JS
 - 💼 Fokus: Belajar dan Belajar
