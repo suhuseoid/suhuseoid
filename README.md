@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**suhuseoid/suhuseoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halo, saya [Nama]
 
-Here are some ideas to get you started:
+Saya tertarik pada [bidang atau teknologi].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Sedang belajar: HTML, CSS, JS
+- 💼 Fokus: Belajar dan Belajar
+- 📫 Kontak: admin@suhuseo.id@gmail.com
+
+## Proyek pilihan
+- [Nama proyek](https://github.com/username/nama-repo) — deskripsi singkat
+
+
