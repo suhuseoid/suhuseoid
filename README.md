@@ -32,7 +32,7 @@ tanpa mengorbankan pengujian dan kualitas kode.
 <tr>
 <td width="50%" valign="top">
 
-#### 🔐 Brankas
+#### 🔐 [Brankas](https://github.com/suhuseoid/password-manager)
 Password manager **offline** lintas platform: macOS, Windows, Linux (termasuk Kali).
 
 - Argon2id + XChaCha20-Poly1305, header terautentikasi
@@ -45,7 +45,7 @@ Password manager **offline** lintas platform: macOS, Windows, Linux (termasuk Ka
 </td>
 <td width="50%" valign="top">
 
-#### 🗂️ Dokumen
+#### 🗂️ [Dokumen](https://github.com/suhuseoid/berkas-manager)
 Brankas **file** terenkripsi yang menyamar sebagai folder biasa di macOS & Windows.
 
 - Kunci acak per file, enkripsi **streaming** per 1 MiB (aman untuk video berukuran GB)
